@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": "^5.3.3|^7.0",
-        "alexvasilyev/mthaml": "~1.3",
+        "alexvasilyev/mthaml": "^1.9",
         "symfony/framework-bundle": "~2.3|~3.0",
         "symfony/twig-bundle": "~2.3|~3.0"
     },
